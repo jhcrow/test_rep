@@ -1,0 +1,6 @@
+[submodule "ftl"]
+	path = ftl
+	url = https://github.com/jhcrow/ftl.git
+[submodule "host"]
+	path = host
+	url = https://github.com/jhcrow/host.git
